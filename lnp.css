@@ -90,7 +90,7 @@ button:hover {
     transition: background, color 0.5s;
 }
 
-#stuff {
+#result {
     display: none;
     border: 1px solid grey;
     margin-top: 80%;
